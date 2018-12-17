@@ -71,4 +71,3 @@ end
     params.require(:song).permit(:title, :artist_name)
   end
 end
-
